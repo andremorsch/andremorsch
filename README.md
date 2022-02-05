@@ -1,5 +1,7 @@
-Olá, me chamo André Morsch 👋
-
+<h2>
+  Olá, me chamo André Morsch 👋
+</h1>
+<br>
 
 - 🔭 Atualmente trabalho em projetos pessoais e de estudos
 - 🌱 Estudando Desenvolvimento Web na Trybe
